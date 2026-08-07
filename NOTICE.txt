@@ -1,0 +1,10 @@
+## 致谢与版权声明
+
+本项目基于 [BBDown](https://github.com/nilaoda/BBDown) 开发图形前端。
+- 原项目许可证：MIT License
+- 原项目版权：Copyright (c) 2020 nilaoda
+- 原项目状态：已归档
+
+本图形前端新增部分：
+- 许可证：MIT License  
+- 版权：Copyright (c) 2026 secret-zou

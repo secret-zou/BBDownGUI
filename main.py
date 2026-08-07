@@ -1,3 +1,11 @@
+"""
+基于 BBDown (已归档) 开发的 GUI 前端
+原项目: https://github.com/nilaoda/BBDown
+原许可证: MIT License  
+原版权: Copyright (c) 2020 nilaoda
+本文件修改/新增部分: Copyright (c) 2026 secret-zou
+"""
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """

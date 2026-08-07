@@ -3,9 +3,16 @@
 > 哔哩哔哩视频下载工具 · 图形前端（半成品）
 >
 > 项目是半成品，欢迎大家来修改
->
-> 本项目遵循MIT协议
 
+## 关于本项目
+
+BBDown GUI 是基于 [BBDown](https://github.com/nilaoda/BBDown) 开发的图形化前端。
+原项目采用 MIT 许可证，版权归 nilaoda 所有，**目前原项目已归档**。
+
+本项目为衍生作品：
+- 新增 GUI 部分采用 MIT 许可证
+- GUI部分版权归 secret-zou 所有
+- 完整许可证见 LICENSE 文件
 ---
 
 ## 项目结构
